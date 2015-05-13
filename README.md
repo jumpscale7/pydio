@@ -1,7 +1,9 @@
 # pydio
 Pydio customization repo
 
-1- Copy class.AJXP_ClientDriver.php to /opt/pydio/plugins/gui.ajax/
+
+you have to copy class.JXP_ClientDriver.php and the others files to thier path or the js folder but you must copy class.JXP_ClientDriver.php
+1- Copy class.AJXP_ClientDriver.php to /opt/pydio/plugins/gui.ajax/ 
 
 2- Copy custom.js jquery-2.1.3.min.js jquery_backbone-min.j ajaxplorer_boot.js ajaxplorer_boot_protolegacy.js to /opt/pydio/plugins/gui.ajax/res/js/
 
